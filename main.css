@@ -1,0 +1,49 @@
+p{color:blue;font-size:20px;}
+.listitem{color:red; font-size:30px;}
+.paragraph{color:#119467; font-size:20px; }
+#body{background-color:#115094;height:2048px;}
+#button{height:20px;width:120px;color:#970F98;
+	background-color:#D30FD4;border-radius:15px;color:yellow; }
+	#header{height:100px;width:1000px;border:2px solid black;
+		background-color:#BADA55;color:red;font-size:20px; margin-bottom:100px;}
+		.picture{height:100px;width:100px;}
+		footer{height:100px;width:1000px;border:2px solid black;
+		background-color:#BADA55;color:red;font-size:20px}
+		.trivia-division{height:220px;width:200px;border:black solid  2px;
+			margin:auto; margin-bottom:100px;padding-left:50px;padding-bottom:20px;}
+.listdiv{height:200px;width:200px;color:#BADA55;border:solid black 2px;margin:auto;
+	margin-bottom:100px;}
+.span1{font-size:40px;color:#BADA55;}
+#sound{heightL:200px;width:200px;}
+#marquee1{font-size:100px; color:#BADA55; }
+#div1{height:150px;width:150px;background-color:red;display:inline-block;position:absolute;
+	z-index:1;}
+#div2{height:150px;width:150px;background-color:green;display:inline-block;position:relative;
+	margin:auto;z-index:2;}
+#div3{height:150px;width:150px;background-color:orange;display:inline-block;position:fixed;
+	left:25%;}
+#body2{height:2048px;}
+#picture1{margin:auto;margin-bottom:100px;}
+#picture2{margin:auto;}
+.navitem{list-style-type: none;
+		display:inline;
+		padding:1em;
+		padding-right:40px;}
+#navmenu{margin:auto;
+		border:solid black 2px;
+		background-color:#bada55;
+		width:310px;}
+a:link{
+	color:blue;}
+a:visited{
+	color:blue;}
+a:hover{
+	color:#bada55;}
+a:active{color:orange;}
+#rightside{float:right;
+			width:50%;
+			margin-left:2px;
+			border:black solid 2px;}
+#leftside{width:100%;
+		border:black solid 2px;
+		margin-right:2px;}
